@@ -1,2 +1,1 @@
-# devops-practices
-DevOps Practices
+# DevOps Notes by Dong Guo
