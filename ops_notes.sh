@@ -105,7 +105,7 @@ Files(){
   find . -name '*TOM*' -or -name '*JACK*'                 # find expressions with 'or'
 
   /etc/vimrc                          # global configuration file
-  set backupcopy=yes                  # avoid changing the file inode number when no change has been made
+  set backupcopy=yes                  # avoid changing the file inode number
   vim -O2 FILE_1 FILE_2               # open 2 windows side by side for FILE_1 and FILE_2
   vim -o2 FILE_1 FILE_2               # open 2 windows stacked for FILE_1 and FILE_2
   CTRL+ww                             # switch between windows
