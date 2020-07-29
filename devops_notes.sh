@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Operations Engineer Notes
+# DevOps Notes
 # Inspired by https://github.com/liquanzhou/ops_doc
 #
 # Author: Dong Guo
