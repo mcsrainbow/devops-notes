@@ -11,15 +11,15 @@
 exit 0
 
 Categories=(
-  Cloud
-  Clustering
+  Files
   Commands
   Database
-  Files
   Monitoring
   Network
   Storage
   System
+  Cloud
+  Clustering
   Uncategorized
 )
 
